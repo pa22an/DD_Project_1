@@ -1,0 +1,39 @@
+User Commands :
+
+1. free			shows memory and cache usge in tabular form
+2. du			show (disk) file usage, recursively
+3. df			shows filesystem usage in tabular form
+4. stat			gives detailed and verbose statistics on a given file or set of files
+5. sar			gives a very detailed rundown on system statistics
+6. ps			lists currently executing processes by owner and PID(process ID)
+7. nohup			keeps a command running even after user logs off and command will run as a foreground process unless followed by &
+8. nmap			scans a server to locate open ports and the services associates with those ports
+9. ifconfig		network interface configuration and tuning utility
+10. iwconfig		set for configuring a wireless network. It is the wireless equivalent of ifconfig
+11. ulimit		sets an upper limit on use of sysytem resources
+12. rdev			get info about or make changes to root device, swap space or video mode. This is a dangerous command, ifmisused
+13. lsmod			list installed kernel modules
+14. modinfo		output information about a loadable module
+15. watch 		run a command repeatedly, at specified time intervals
+
+Root Commands :
+
+1. apt-get		command-line tool for handing packages	
+2. useradd		adds a user account to the system
+3. userdel		removes a user account from the system
+4. usermod		modify a user account
+5. groups			lists the current user and the groups it belong to
+6. last			show listing of last logged in user
+7. chown			changes the ownership of a file or files. An ordinary user may not change the ownership of files
+8. chgrp			changes the group ownership of a file or files
+9. accept			causes the print queue to accept printing job requests
+10. runuser		run a shell with substitute user and group Ids, similar to su but will not run PAM hooks
+11. umount		unmount file systems
+12. autoscan		generate a preliminary
+13. chage			change user password expiry information
+14. hwclock		query and set the hardware clock
+15. fsck			check and repair a linux file system
+
+
+
+
